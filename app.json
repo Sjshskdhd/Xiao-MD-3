@@ -1,52 +1,10 @@
 {
-  "name": "Xiao-MD-2 ",
+  "name": "𝐐𝐮𝐞𝐞𝐧 𝐀𝐧𝐲𝐚 𝐌𝐃-𝐯𝟐",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/NEXUSAT12/Xiao-MD-2",
+  "repository": "https://github.COM/PikaBotz/Anya-pika-MD-V2",
   "logo": "https://i.ibb.co/bgfFFjF/Videoshot-20221026-164328.jpg&name=900x900",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
-  "env": {
-    "LANGUAGE" :{
-        "descrption" : "SELECT YOUR BOT LANGUAGE [ HN - Hindi / EN - english / AR - Arabic] ",
-        "requred" : true,
-        "value" : "EN"
-      },
-    "OWNER_NUMBER" :{
-      "description" : "OWNER NUMBER",
-      "required" : true,
-      "value" :"918130784851"
-      },
-    "BOT_NAME" :{
-      "description" : "YOUR BOT NAME",
-      "requred" : false,
-      "value" :"𓆩⍣⃝🇽‌𝐢𝐚𝐨-𝐁𝐎𝐓⃢𓆪"
-      },
-    "OWNER_NAME" :{
-      "description" : "YOUR NAME",
-      "requred" : true,
-      "value" :"Nexus"
-      }, 
-    "GROUPLINK" :{
-      "description" : "YOUR GROUP LINK ",
-      "requred" : false,
-      "value" :"https://chat.whatsapp.com/KdCiUuENgOFEYJMHV3jZNj"
-      }, 
-    "PACKNAME" :{
-      "description" : "YOUR STICKER PACK NAME",
-      "requred" : false ,
-      "value" :" ☤꙰𝙈𝘼𝙎𝙏𝙀𝙍꥟𝙉𝙀𝙓𝙐𝙎☤꙰. "
-      }, 
-    "AUTHOR" :{
-      "description" : "YOUR STICKER AUTHOR NAME",
-      "requred" : false ,
-      "value" :"☤꙰𝙈𝘼𝙎𝙏𝙀𝙍꥟𝙉𝙀𝙓𝙐𝙎☤꙰."
-      },
-    "WATERMARK" :{
-      "description" : "WATER MARK OF YOUR BOT",
-      "requred" : false,
-      "value" :"☤꙰𝙈𝘼𝙎𝙏𝙀𝙍꥟𝙉𝙀𝙓𝙐𝙎☤꙰."
-      }
-  },
-  "buildpacks": [
+   "buildpacks": [
     {
       "url": "heroku/nodejs"
     },
