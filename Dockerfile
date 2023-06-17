@@ -26,4 +26,4 @@ COPY . .
 
 RUN yarn install
 
-CMD ["node", "Anyaindex.js"]
+CMD ["node", "xiao✌❤️‍🔥index.js"]
